@@ -1,0 +1,44 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1sZ-q4-HYr"; */
+"1sZ-q4-HYr.text" = "Label";
+
+/* Class = "UILabel"; text = "Is Life Changing:"; ObjectID = "3Dm-mN-f2m"; */
+"3Dm-mN-f2m.text" = "IChange la vie:";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "9UH-9f-v5Y"; */
+"9UH-9f-v5Y.title" = "Item";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "AAY-aZ-COx"; */
+"AAY-aZ-COx.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Add New Goal!"; ObjectID = "O7f-0w-lP2"; */
+"O7f-0w-lP2.normalTitle" = "Ajouter un nouvel objectif
+!";
+
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "Xqh-br-ZiO"; */
+"Xqh-br-ZiO.normalTitle" = "modifier";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "c59-MT-wVd"; */
+"c59-MT-wVd.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "cs9-qT-Z52"; */
+"cs9-qT-Z52.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "f3y-XZ-xlf"; */
+"f3y-XZ-xlf.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "+Goal"; ObjectID = "fAF-GR-exg"; */
+"fAF-GR-exg.normalTitle" = "+objectif";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "gq8-D4-605"; */
+"gq8-D4-605.title" = "Item";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "jaO-IY-VzG"; */
+"jaO-IY-VzG.title" = "Item";
+
+/* Class = "UILabel"; text = "Is it Life Changing?"; ObjectID = "mne-Z1-GUO"; */
+"mne-Z1-GUO.text" = "Est-ce changer la vie
+";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "qJ6-JQ-DOQ"; */
+"qJ6-JQ-DOQ.text" = "Label";
